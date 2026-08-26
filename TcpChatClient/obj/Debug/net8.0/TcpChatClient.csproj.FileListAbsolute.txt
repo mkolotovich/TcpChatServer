@@ -1,0 +1,14 @@
+C:\Users\mike\source\repos\TcpChatClient\bin\Debug\net8.0\TcpChatClient.exe
+C:\Users\mike\source\repos\TcpChatClient\bin\Debug\net8.0\TcpChatClient.deps.json
+C:\Users\mike\source\repos\TcpChatClient\bin\Debug\net8.0\TcpChatClient.runtimeconfig.json
+C:\Users\mike\source\repos\TcpChatClient\bin\Debug\net8.0\TcpChatClient.dll
+C:\Users\mike\source\repos\TcpChatClient\bin\Debug\net8.0\TcpChatClient.pdb
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\TcpChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\TcpChatClient.AssemblyInfoInputs.cache
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\TcpChatClient.AssemblyInfo.cs
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\TcpChatClient.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\TcpChatClient.dll
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\refint\TcpChatClient.dll
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\TcpChatClient.pdb
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\TcpChatClient.genruntimeconfig.cache
+C:\Users\mike\source\repos\TcpChatClient\obj\Debug\net8.0\ref\TcpChatClient.dll
